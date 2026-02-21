@@ -1,4 +1,4 @@
 # rohitsah-DEMO
-This is somehow going to be my first github repository...
+<p class = "para"> This is somehow going to be my first github repository...
 </br>
-Author --RohitKumarSah
+Author --RohitKumarSah </p>
